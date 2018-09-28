@@ -1,0 +1,433 @@
+F:\VS Studio\Module\Module\obj\Debug\Module.dll.licenses
+F:\VS Studio\Module\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+F:\VS Studio\Module\Module\bin\Module.dll.config
+F:\VS Studio\Module\Module\bin\Module.dll
+F:\VS Studio\Module\Module\bin\Module.pdb
+F:\VS Studio\Module\Module\bin\Antlr3.Runtime.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Data.v17.2.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Printing.v17.2.Core.dll
+F:\VS Studio\Module\Module\bin\DevExpress.RichEdit.v17.2.Core.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Web.Bootstrap.v17.2.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Web.Resources.v17.2.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Web.v17.2.dll
+F:\VS Studio\Module\Module\bin\Microsoft.Web.Infrastructure.dll
+F:\VS Studio\Module\Module\bin\Newtonsoft.Json.dll
+F:\VS Studio\Module\Module\bin\System.Net.Http.Formatting.dll
+F:\VS Studio\Module\Module\bin\System.Web.Cors.dll
+F:\VS Studio\Module\Module\bin\System.Web.Http.Cors.dll
+F:\VS Studio\Module\Module\bin\System.Web.Http.dll
+F:\VS Studio\Module\Module\bin\System.Web.Http.WebHost.dll
+F:\VS Studio\Module\Module\bin\System.Web.Optimization.dll
+F:\VS Studio\Module\Module\bin\WebGrease.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Pdf.v17.2.Core.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Office.v17.2.Core.dll
+F:\VS Studio\Module\Module\bin\DevExpress.Images.v17.2.dll
+F:\VS Studio\Module\Module\bin\Antlr3.Runtime.pdb
+F:\VS Studio\Module\Module\bin\DevExpress.Printing.v17.2.Core.xml
+F:\VS Studio\Module\Module\bin\DevExpress.RichEdit.v17.2.Core.xml
+F:\VS Studio\Module\Module\bin\Newtonsoft.Json.xml
+F:\VS Studio\Module\Module\bin\System.Net.Http.Formatting.xml
+F:\VS Studio\Module\Module\bin\System.Web.Http.xml
+F:\VS Studio\Module\Module\bin\System.Web.Http.Cors.xml
+F:\VS Studio\Module\Module\bin\System.Web.Http.WebHost.xml
+F:\VS Studio\Module\Module\bin\System.Web.Optimization.xml
+F:\VS Studio\Module\Module\bin\DevExpress.Web.Bootstrap.v17.2.xml
+F:\VS Studio\Module\Module\bin\DevExpress.Web.v17.2.xml
+F:\VS Studio\Module\Module\bin\DevExpress.Data.v17.2.xml
+F:\VS Studio\Module\Module\bin\DevExpress.Pdf.v17.2.Core.xml
+F:\VS Studio\Module\Module\bin\DevExpress.Office.v17.2.Core.xml
+F:\VS Studio\Module\Module\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\de\DevExpress.Web.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\es\DevExpress.Web.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\ja\DevExpress.Web.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\ru\DevExpress.Web.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\de\DevExpress.Data.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\es\DevExpress.Data.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\ja\DevExpress.Data.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\ru\DevExpress.Data.v17.2.resources.dll
+F:\VS Studio\Module\Module\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+F:\VS Studio\Module\Module\obj\Debug\Module.csproj.CopyComplete
+F:\VS Studio\Module\Module\obj\Debug\Module.dll
+F:\VS Studio\Module\Module\obj\Debug\Module.pdb
+F:\VS Studio\Module\Module\obj\Debug\Module.csprojResolveAssemblyReference.cache
+F:\VS Studio\Module 25062018\Module\bin\Module.dll.config
+F:\VS Studio\Module 25062018\Module\bin\Module.dll
+F:\VS Studio\Module 25062018\Module\bin\Module.pdb
+F:\VS Studio\Module 25062018\Module\bin\Antlr3.Runtime.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Data.v18.1.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Office.v18.1.Core.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Printing.v18.1.Core.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.RichEdit.v18.1.Core.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Web.Bootstrap.v18.1.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Web.Resources.v18.1.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Web.v18.1.dll
+F:\VS Studio\Module 25062018\Module\bin\Microsoft.Web.Infrastructure.dll
+F:\VS Studio\Module 25062018\Module\bin\Newtonsoft.Json.dll
+F:\VS Studio\Module 25062018\Module\bin\System.Net.Http.Formatting.dll
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Cors.dll
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Http.Cors.dll
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Http.dll
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Http.WebHost.dll
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Optimization.dll
+F:\VS Studio\Module 25062018\Module\bin\WebGrease.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Pdf.v18.1.Core.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Images.v18.1.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+F:\VS Studio\Module 25062018\Module\bin\Antlr3.Runtime.pdb
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Printing.v18.1.Core.xml
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Office.v18.1.Core.xml
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.RichEdit.v18.1.Core.xml
+F:\VS Studio\Module 25062018\Module\bin\Newtonsoft.Json.xml
+F:\VS Studio\Module 25062018\Module\bin\System.Net.Http.Formatting.xml
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Http.xml
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Http.Cors.xml
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Http.WebHost.xml
+F:\VS Studio\Module 25062018\Module\bin\System.Web.Optimization.xml
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Web.Bootstrap.v18.1.xml
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Web.v18.1.xml
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Data.v18.1.xml
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Pdf.v18.1.Core.xml
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+F:\VS Studio\Module 25062018\Module\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module 25062018\Module\obj\Debug\Module.csprojResolveAssemblyReference.cache
+F:\VS Studio\Module 25062018\Module\obj\Debug\Module.dll.licenses
+F:\VS Studio\Module 25062018\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+F:\VS Studio\Module 25062018\Module\obj\Debug\Module.csproj.CopyComplete
+F:\VS Studio\Module 25062018\Module\obj\Debug\Module.dll
+F:\VS Studio\Module 25062018\Module\obj\Debug\Module.pdb
+F:\VS Studio\Module v1.0 - Copy\Module\bin\Module.dll.config
+F:\VS Studio\Module v1.0 - Copy\Module\bin\Module.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\Module.pdb
+F:\VS Studio\Module v1.0 - Copy\Module\bin\Antlr3.Runtime.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Data.v18.1.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Office.v18.1.Core.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Printing.v18.1.Core.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.RichEdit.v18.1.Core.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Web.Bootstrap.v18.1.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Web.Resources.v18.1.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Web.v18.1.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\Microsoft.Web.Infrastructure.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\Newtonsoft.Json.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Net.Http.Formatting.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Cors.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Http.Cors.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Http.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Http.WebHost.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Optimization.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\WebGrease.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Pdf.v18.1.Core.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Images.v18.1.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\Antlr3.Runtime.pdb
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Printing.v18.1.Core.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Office.v18.1.Core.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.RichEdit.v18.1.Core.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\Newtonsoft.Json.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Net.Http.Formatting.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Http.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Http.Cors.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Http.WebHost.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Optimization.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Web.Bootstrap.v18.1.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Web.v18.1.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Data.v18.1.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Pdf.v18.1.Core.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0 - Copy\Module\obj\Debug\Module.csprojResolveAssemblyReference.cache
+F:\VS Studio\Module v1.0 - Copy\Module\obj\Debug\Module.dll.licenses
+F:\VS Studio\Module v1.0 - Copy\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+F:\VS Studio\Module v1.0 - Copy\Module\obj\Debug\Module.csproj.CopyComplete
+F:\VS Studio\Module v1.0 - Copy\Module\obj\Debug\Module.dll
+F:\VS Studio\Module v1.0 - Copy\Module\obj\Debug\Module.pdb
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Helpers.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Razor.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.WebPages.Deployment.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.WebPages.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.WebPages.Razor.dll
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Helpers.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.Razor.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.WebPages.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.WebPages.Deployment.xml
+F:\VS Studio\Module v1.0 - Copy\Module\bin\System.Web.WebPages.Razor.xml
+F:\Dropbox\Module v1.0\Module\bin\Module.dll.config
+F:\Dropbox\Module v1.0\Module\bin\Module.dll
+F:\Dropbox\Module v1.0\Module\bin\Module.pdb
+F:\Dropbox\Module v1.0\Module\bin\Antlr3.Runtime.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Data.v18.1.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Office.v18.1.Core.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Printing.v18.1.Core.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.RichEdit.v18.1.Core.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Web.Bootstrap.v18.1.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Web.Resources.v18.1.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Web.v18.1.dll
+F:\Dropbox\Module v1.0\Module\bin\Microsoft.Web.Infrastructure.dll
+F:\Dropbox\Module v1.0\Module\bin\Newtonsoft.Json.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Net.Http.Formatting.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Cors.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Helpers.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Http.Cors.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Http.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Http.WebHost.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Optimization.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Razor.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.WebPages.Deployment.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.WebPages.dll
+F:\Dropbox\Module v1.0\Module\bin\System.Web.WebPages.Razor.dll
+F:\Dropbox\Module v1.0\Module\bin\WebGrease.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Pdf.v18.1.Core.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Images.v18.1.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+F:\Dropbox\Module v1.0\Module\bin\Antlr3.Runtime.pdb
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Printing.v18.1.Core.xml
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Office.v18.1.Core.xml
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.RichEdit.v18.1.Core.xml
+F:\Dropbox\Module v1.0\Module\bin\Newtonsoft.Json.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Net.Http.Formatting.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Helpers.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Http.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Http.Cors.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Http.WebHost.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Optimization.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.Razor.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.WebPages.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.WebPages.Deployment.xml
+F:\Dropbox\Module v1.0\Module\bin\System.Web.WebPages.Razor.xml
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Web.Bootstrap.v18.1.xml
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Web.v18.1.xml
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Data.v18.1.xml
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Pdf.v18.1.Core.xml
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+F:\Dropbox\Module v1.0\Module\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.Web.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.Web.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.Web.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.Web.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.Data.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.Data.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.Data.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.Data.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\Dropbox\Module v1.0\Module\obj\Debug\Module.csprojResolveAssemblyReference.cache
+F:\Dropbox\Module v1.0\Module\obj\Debug\Module.dll.licenses
+F:\Dropbox\Module v1.0\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+F:\Dropbox\Module v1.0\Module\obj\Debug\Module.csproj.CopyComplete
+F:\Dropbox\Module v1.0\Module\obj\Debug\Module.dll
+F:\Dropbox\Module v1.0\Module\obj\Debug\Module.pdb
+F:\VS Studio\Module v1.0\Module\bin\Module.dll.config
+F:\VS Studio\Module v1.0\Module\bin\Module.dll
+F:\VS Studio\Module v1.0\Module\bin\Module.pdb
+F:\VS Studio\Module v1.0\Module\bin\Antlr3.Runtime.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Data.v18.1.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Office.v18.1.Core.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Printing.v18.1.Core.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.RichEdit.v18.1.Core.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Web.Bootstrap.v18.1.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Web.Resources.v18.1.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Web.v18.1.dll
+F:\VS Studio\Module v1.0\Module\bin\Microsoft.Web.Infrastructure.dll
+F:\VS Studio\Module v1.0\Module\bin\Newtonsoft.Json.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Net.Http.Formatting.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Cors.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Helpers.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Http.Cors.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Http.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Http.WebHost.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Optimization.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Razor.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.WebPages.Deployment.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.WebPages.dll
+F:\VS Studio\Module v1.0\Module\bin\System.Web.WebPages.Razor.dll
+F:\VS Studio\Module v1.0\Module\bin\WebGrease.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Pdf.v18.1.Core.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Images.v18.1.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+F:\VS Studio\Module v1.0\Module\bin\Antlr3.Runtime.pdb
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Printing.v18.1.Core.xml
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Office.v18.1.Core.xml
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.RichEdit.v18.1.Core.xml
+F:\VS Studio\Module v1.0\Module\bin\Newtonsoft.Json.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Net.Http.Formatting.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Helpers.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Http.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Http.Cors.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Http.WebHost.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Optimization.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.Razor.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.WebPages.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.WebPages.Deployment.xml
+F:\VS Studio\Module v1.0\Module\bin\System.Web.WebPages.Razor.xml
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Web.Bootstrap.v18.1.xml
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Web.v18.1.xml
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Data.v18.1.xml
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Pdf.v18.1.Core.xml
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+F:\VS Studio\Module v1.0\Module\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.Web.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.Data.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\VS Studio\Module v1.0\Module\obj\Debug\Module.dll.licenses
+F:\VS Studio\Module v1.0\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+F:\VS Studio\Module v1.0\Module\obj\Debug\Module.csproj.CopyComplete
+F:\VS Studio\Module v1.0\Module\obj\Debug\Module.dll
+F:\VS Studio\Module v1.0\Module\obj\Debug\Module.pdb
+F:\VS Studio\Module v1.0\Module\obj\Debug\Module.csprojResolveAssemblyReference.cache

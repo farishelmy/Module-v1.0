@@ -1,0 +1,97 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Root.master.cs" Inherits="Module.SiteMaster" %>
+<%@ Import Namespace="System.Web.Optimization" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <title>User Directory</title>
+
+    <%-- Bundles --%>
+    <link type="text/css" rel="stylesheet" href="/Content/vendor/bootstrap/css/bootstrap.min.css"/>
+    <!-- Font Awesome CSS-->
+    <link rel="stylesheet" href="/Content/vendor/font-awesome/css/font-awesome.min.css"/>
+    <!-- Fontastic Custom icon font-->
+    <link rel="stylesheet" href="/Content/css/fontastic.css"/>
+    <!-- Google fonts - Roboto -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"/>
+    <!-- jQuery Circle-->
+    <link rel="stylesheet" href="/Content/css/grasp_mobile_progress_circle-1.0.0.min.css"/>
+    <!-- Custom Scrollbar-->
+    <link rel="stylesheet" href="/Content/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css"/>
+    <!-- theme stylesheet-->
+    <link rel="stylesheet" href="/Content/css/style.blue.premium.css"/>
+    <%--<link rel="stylesheet" href="/Content/css/style.default.premium.css">--%>
+
+    <!-- Custom stylesheet - for your changes-->
+    <link rel="stylesheet" href="/Content/css/custom.css"/>
+   
+    <!-- CSS Card StakeholderDetails-->
+    <link rel="stylesheet" href="/Content/css/light-bootstrap-dashboard.css"/>
+
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="Content/assets/img/favicon.png"/>
+
+    <!-- Bootstrap Select CSS-->
+    <link rel="stylesheet" href="/Content/vendor/bootstrap-select/css/bootstrap-select.min.css"/>
+    <!-- Bootstrap Touchspin CSS-->
+    <link rel="stylesheet" href="/Content/vendor/bootstrap-touchspin/jquery.bootstrap-touchspin.min.css"/>
+    <!-- Bootstrap Datepicker CSS-->
+    <link rel="stylesheet" href="/Content/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.css"/>
+    <!-- Bootstrap Tags input CSS-->
+    <link rel="stylesheet" href="/Content/vendor/bootstrap-tagsinput/bootstrap-tagsinput.css"/>
+
+     
+
+
+
+    <%-- Script --%>
+    <script src="/Content/vendor/jquery/jquery.min.js"></script> 
+    <script src="/Content/vendor/popper.js/umd/popper.min.js"> </script>
+    <script src="/Content/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/Content/js/grasp_mobile_progress_circle-1.0.0.min.js"></script>
+    <script src="/Content/vendor/jquery.cookie/jquery.cookie.js"> </script>
+    <!-- <script src="/Content/vendor/chart.js/Chart.min.js"></script> -->
+    <script src="/Content/vendor/jquery-validation/jquery.validate.min.js"></script>
+    <script src="/Content/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+    <!--  <script src="/Content/js/charts-home.js"></script> -->
+     
+    <!-- Main File-->
+    <script src="/Content/js/front.js"></script>
+
+     <!-- Bootstrap Select-->
+    <script src="/Content/vendor/bootstrap-select/js/bootstrap-select.min.js"></script>
+    <!-- Bootstrap Touchspin-->
+    <script src="/Content/vendor/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js"></script>    
+    <!-- Bootstrap DatePicker-->
+    <script src="/Content/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+    <!-- Bootstrap Tags Input-->
+    <script src="/Content/vendor/bootstrap-tagsinput/bootstrap-tagsinput.min.js"></script>
+    <!-- Jasny Bootstrap - Input Masks-->
+    <script src="/Content/vendor/jasny-bootstrap/js/jasny-bootstrap.min.js"> </script>
+    <!-- MultiSelect-->
+    <script src="/Content/vendor/multiselect/js/jquery.multi-select.js"> </script>
+    <!-- Forms init-->
+    <script src="/Content/js/forms-advanced.js"></script>
+    <!-- Notificatuion-->
+    <script src="/Content/vendor/messenger-hubspot/build/js/messenger.min.js">   </script>
+    <script src="/Content/vendor/messenger-hubspot/build/js/messenger-theme-flat.js">       </script>
+
+   
+    
+
+
+   
+</head>
+<body>
+    <%--<form id="form1" runat="server">--%>
+        <div>
+            <asp:ContentPlaceHolder id="MainContent" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+    <%--</form>--%>
+    
+</body>
+</html>

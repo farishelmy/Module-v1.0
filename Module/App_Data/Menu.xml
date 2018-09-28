@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Toolbar>
+  <Item Name="GridViewMode" ToolTip="Grid View Mode" Icon="fa fa-table" Nav="FactoryList.aspx" ></Item>
+  <Item Name="CardsViewMode" ToolTip="Cards View Mode" Icon="fa fa-th-large" Nav="FactoryCard.aspx"></Item>
+  <Item Name="Redo" Icon="fa fa-repeat"></Item>
+</Toolbar>

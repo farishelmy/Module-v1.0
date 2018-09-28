@@ -1,0 +1,22 @@
+[2:44:50 PM][ERROR] Unable to connect to the remote server
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 424
+[2:44:50 PM][SiteMaster.aspx][Page_Init] No session found.
+[2:46:25 PM][SiteMaster.aspx][Page_Init] No session found.
+[3:41:01 PM][ERROR] Unable to connect to the remote server
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 424
+[3:41:51 PM][ERROR] Unable to connect to the remote server
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 424
+[3:43:30 PM][ERROR] Unable to connect to the remote server
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 424
+[3:44:15 PM][ERROR] Unable to connect to the remote server
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 424

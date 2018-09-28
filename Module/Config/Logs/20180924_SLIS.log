@@ -1,0 +1,70 @@
+[9:55:40 PM]param={"stakeh_type_name":5,"initials":null,"first_name":"Adam Mukhlis","last_name":null,"full_name":"Adam Mukhlis","email":null,"date_of_birth":null,"version":0,"stakeh_type":5,"stakeholder_id":null,"id_number":null,"acl_id":null,"internal":true,"is_blocked":true,"can_login":true,"login_username":"adam","password":"1234","role_value":"Knowledge Worker","role_id":"role-b6a0793f60244d8c986a30a804420494","security_level_value":null,"security_lvl_id":null,"active":true,"date_active_from":"09/01/2018","date_active_to":"10/01/2018","bio_access_id":"repo4-319a65f2a2dc4cc4b68dfcf5bf1c0621","acl_entries":null,"custom_field":null}
+[9:55:41 PM] Response {"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-1e4e69766136438db8c72e560199785c"}
+[9:55:45 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[9:55:48 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[9:55:49 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:00:28 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:00:29 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:00:36 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:00:57 PM]param={"stakeh_type_name":0,"initials":null,"first_name":"test","last_name":null,"full_name":"test","email":"Jamal@gmail.com","date_of_birth":null,"version":0,"stakeh_type":0,"stakeholder_id":null,"id_number":null,"acl_id":null,"internal":false,"is_blocked":false,"can_login":false,"login_username":null,"password":null,"role_value":"Admin","role_id":"1111111111","security_level_value":null,"security_lvl_id":null,"active":false,"date_active_from":null,"date_active_to":null,"bio_access_id":"repo4-319a65f2a2dc4cc4b68dfcf5bf1c0621","acl_entries":null,"custom_field":null}
+[10:00:57 PM] Response {"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-883f3ca4d7cd4a8cac080858061712ea"}
+[10:01:30 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:02:36 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:02:37 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:02:38 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:02:38 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:03:06 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:03:17 PM]param={"stakeh_type_name":1,"initials":null,"first_name":"test","last_name":null,"full_name":"test","email":null,"date_of_birth":null,"version":0,"stakeh_type":1,"stakeholder_id":null,"id_number":null,"acl_id":null,"internal":false,"is_blocked":false,"can_login":false,"login_username":null,"password":null,"role_value":"Admin","role_id":"1111111111","security_level_value":null,"security_lvl_id":null,"active":false,"date_active_from":null,"date_active_to":null,"bio_access_id":"repo4-319a65f2a2dc4cc4b68dfcf5bf1c0621","acl_entries":null,"custom_field":null}
+[10:03:17 PM] Response {"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-4608813dc7b047d7a0d46ca22b8fa6c4"}
+[10:03:34 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:12:58 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:12:58 PM][Utils.cs][SearchLabByStakeholderOrg] stakeholder_org_id is empty.
+[10:13:40 PM] Response {"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-39811dc8e68648799c09695f52942306"}
+[10:13:40 PM]util{"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-39811dc8e68648799c09695f52942306"}
+[10:13:40 PM] Response {"success":true,"code":100,"message":"Action done successfully"}
+[10:14:19 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:14:49 PM] Response {"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-9ff73561d340417a849ea237df119ab9"}
+[10:14:49 PM]util{"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-9ff73561d340417a849ea237df119ab9"}
+[10:14:50 PM] Response {"success":true,"code":100,"message":"Action done successfully"}
+[10:15:20 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:15:21 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432
+[10:15:34 PM] Response {"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-249085a571f844d89fb1b4605ab0470d"}
+[10:15:34 PM]util{"success":true,"code":200,"message":"Item created successfully","stakeholder_id":"stkh-249085a571f844d89fb1b4605ab0470d"}
+[10:15:34 PM] Response {"success":true,"code":100,"message":"Action done successfully"}
+[10:16:56 PM][ERROR] The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Module.Utils.GenerateRequest(String sAction, String sQueryString, String sMethod, String& sResponse) in F:\VS Studio\Module v1.0\Module\App_Code\Utils.cs:line 432

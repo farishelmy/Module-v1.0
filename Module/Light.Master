@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Light.master.cs" Inherits="Module.Light" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+
+     <%-- Bundles --%>
+    <link type="text/css" rel="stylesheet" href="/Content/vendor/bootstrap/css/bootstrap.min.css"/>
+    <!-- Font Awesome CSS-->
+    <link rel="stylesheet" href="/Content/vendor/font-awesome/css/font-awesome.min.css"/>
+    <!-- Fontastic Custom icon font-->
+    <link rel="stylesheet" href="/Content/css/fontastic.css"/>
+    <!-- Google fonts - Roboto -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"/>
+    <!-- jQuery Circle-->
+    <link rel="stylesheet" href="/Content/css/grasp_mobile_progress_circle-1.0.0.min.css"/>
+    <!-- Custom Scrollbar-->
+    <link rel="stylesheet" href="/Content/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css"/>
+    <!-- theme stylesheet-->
+    <!--<link rel="stylesheet" href="/Content/css/style.blue.premium.css"/>-->
+    <!-- Custom stylesheet - for your changes-->
+    <link rel="stylesheet" href="/Content/css/custom.css"/>
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="/Content/img/favicon.ico"/>
+    
+
+    <%-- Script --%>
+    <script src="/Content/vendor/jquery/jquery.min.js"></script>
+    <script src="/Content/vendor/popper.js/umd/popper.min.js"> </script>
+    <script src="/Content/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/Content/js/grasp_mobile_progress_circle-1.0.0.min.js"></script>
+    <script src="/Content/vendor/jquery.cookie/jquery.cookie.js"> </script>
+    <script src="/Content/vendor/chart.js/Chart.min.js"></script>
+    <script src="/Content/vendor/jquery-validation/jquery.validate.min.js"></script>
+    <script src="/Content/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="/Content/js/charts-home.js"></script>
+
+    <!-- Notifications-->
+    
+    <!-- Main File-->
+    <script src="/Content/js/front.js"></script>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
